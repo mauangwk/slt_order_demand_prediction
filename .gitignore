@@ -1,0 +1,10 @@
+venv
+__pycache__
+.DS_Store
+
+# Only enabled during initial work
+# files
+
+files/outputs/*
+
+datasets/pre-processed/*
