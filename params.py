@@ -11,10 +11,10 @@ sistema_operativo = platform.system()
 # Variables de control de ejecucion --------------------------------
 
 # Si se requiere preprocesamiento
-preprocess_required = True
+preprocess_required = False
 
 # Si se requiere entrenamiento
-training_required = True
+training_required = False
 
 # Sistema de archivos ----------------------------------------------
 # El tipo de archivo parquet mantiene el tipo de dato al ser leido por pandas
