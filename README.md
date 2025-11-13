@@ -67,19 +67,6 @@ Best Params: {
 Así las metricas resultantes fueron las siguientes en los diferentes sets de datos:
 
 
-<style>
-    body .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    body .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    body .dataframe thead th {
-        text-align: right;
-    }
-</style>
 
 <div>
 <table border="1" class="dataframe">
